@@ -7,14 +7,14 @@ html {
 body {
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
-    font-size: 16px;
-    width: 450px;
+    font-size: 12px;
+    width: 300px;
     margin: 0 auto;
 }
 
 main {
     background-color: #FFF;
-    padding: 20px;
+    padding: 10px;
     border-radius: 0px 0px 20px 20px;
 }
 
@@ -25,24 +25,88 @@ h1 {
 
 body main p {
     color: #7280A7;
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
-body img {
-    border-radius: 20px 20px 0px 0px;
-    margin-top: 50px;
 }
 
 body section {
+    background-color: #E0E8FF4D;
+    height: 40px;
+    border-radius: 10px;
 }
 
-body section img {
+.ilustracao  {  
+    border-radius: 20px 20px 0px 0px;
+    margin-top: 40px;
+    width: 300px;
 }
 
-body section button {
+.plano {
+    display: inline-block;
+    padding: 15px 10px 15px 10px;
+    margin-bottom: 20px;
 }
 
+.icone {
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.preco {
+    float: left;
+    margin: 5px 0px 0px 10px;
+}
+
+.preco strong {
+    color: #1F2F56;
+    font-weight: 900;
+}
+
+.troca {
+    color: #3829E0;
+    background-color: #E0E8FF00;
+    padding: 10px 0px 10px 60px;
+    border: none;
+    font-size: 11px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 5px;
+}
+
+.pagamento {
+    color: #FFF;
+    background-color: #3829E0;
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 10px 70px 10px 70px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 11px;
+    box-shadow: 0px 10px 10px 0px rgba(31, 47, 86, 0.4);
+}
+
+.cancelamento {
+    color: #7280A7;
+    background-color: #FFF;
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 10px 100px 10px 100px;
+    border: none;
+    font-weight: bold;
+    font-size: 11px;
+    margin-top: 20px;
+}
+
+
+footer {
+    display: block;
+    margin: 30px;
+}
+
+color {
+    color: #E0E8FF;
+    color: #3829E0;
+    color: #9b9b9b; 
+}
 #E0E8FF
 #3829E0;
 #9b9b9b;
