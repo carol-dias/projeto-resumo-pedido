@@ -1,6 +1,10 @@
+html {
+    background-color: #E0E8FF;
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+}
 
 body {
-    background-image: url(images/pattern-background-desktop.svg);
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
     font-size: 16px;
@@ -8,13 +12,10 @@ body {
     margin: 0 auto;
 }
 
-div {
-    margin: 0 auto;
-}
-
 main {
     background-color: #FFF;
-    padding: 40px;
+    padding: 20px;
+    border-radius: 0px 0px 20px 20px;
 }
 
 h1 {
@@ -30,10 +31,16 @@ body main p {
 
 body img {
     border-radius: 20px 20px 0px 0px;
+    margin-top: 50px;
+}
+
+body section {
 }
 
 body section img {
-    float: left;
+}
+
+body section button {
 }
 
 #E0E8FF
