@@ -2,4 +2,40 @@
 body {
     background-image: url(images/pattern-background-desktop.svg);
     text-align: center;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    width: 450px;
+    margin: 0 auto;
 }
+
+div {
+    margin: 0 auto;
+}
+
+main {
+    background-color: #FFF;
+    padding: 40px;
+}
+
+h1 {
+    color: #1F2F56;
+    font-weight: 900;
+}
+
+body main p {
+    color: #7280A7;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+body img {
+    border-radius: 20px 20px 0px 0px;
+}
+
+body section img {
+    float: left;
+}
+
+#E0E8FF
+#3829E0;
+#9b9b9b;
