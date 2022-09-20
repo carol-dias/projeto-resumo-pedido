@@ -1,5 +1,5 @@
 
-Frontend Mentor - Desafio "Resumo do Pedido"
+## Frontend Mentor - Desafio "Resumo do Pedido"
 
 Solução proposta para o desafio [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Os desagios do Frontend Mentor ajudam no desenvolvimento da nossa capacidade de programar através da construção de projetos realísticos.
 
